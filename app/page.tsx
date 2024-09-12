@@ -51,7 +51,7 @@ export default function Home() {
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:mx-0">
             <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">
-              Welcome to Nature&apos;s Edge wooding services
+              Welcome to ALI Ventures wooding services
             </h2>
             <p className="mt-6 text-lg leading-8 text-white">
               Crafting Natural Beauty in Woodwork is our passion and expertise.

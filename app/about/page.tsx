@@ -43,11 +43,11 @@ const About = () => {
             Our Story
           </motion.h1>
           <motion.p className="text-lg leading-relaxed" {...fadeInUp}>
-            Welcome to ALIVEntures, where craftsmanship meets innovation in the
+            Welcome to ALI Ventures, where craftsmanship meets innovation in the
             world of woodwork. Founded on a passion for sustainable and
             high-quality wood products, we are dedicated to transforming natural
             materials into exquisite creations for your home and business. At
-            ALIVEntures, our mission is to blend traditional woodworking
+            ALI Ventures, our mission is to blend traditional woodworking
             techniques with modern design to deliver products that are both
             functional and aesthetically pleasing. With a commitment to
             environmental responsibility, we source our materials from
@@ -57,7 +57,7 @@ const About = () => {
             and cabinetry to unique wooden accents. We take pride in our
             meticulous attention to detail and our ability to turn your vision
             into reality. Whether you&apos;re looking to enhance your living
-            space or elevate your business environment, ALIVEntures is your
+            space or elevate your business environment, ALI Ventures is your
             trusted partner in wood craftsmanship. Join us on a journey where
             quality, creativity, and sustainability come together to create
             exceptional wood products. Today, ALI Ventures Carpentry
