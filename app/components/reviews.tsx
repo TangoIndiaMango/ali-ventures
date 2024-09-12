@@ -34,7 +34,7 @@ export default function Reviews() {
       <div className="absolute inset-0 flex flex-col items-center justify-center p-4">
         <div className="relative w-full max-w-4xl aspect-[3/1] mb-8">
           <Image
-            src="overlay-image.png"
+            src="/overlay-image.png"
             alt="Woodworking tools on a wooden surface"
             fill
             className="rounded-lg shadow-xl"
