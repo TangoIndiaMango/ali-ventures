@@ -39,7 +39,7 @@ export default function Reviews() {
             fill
             className="rounded-lg shadow-xl"
           />
-          <p className="absolute text-2xl text-black font-bold p-6 text-center">
+          <p className="absolute text-lg md:text-2xl text-black font-bold p-6 text-center">
               We believe in sustainable practices and creating pieces that will be cherished for generations.
             </p>
         </div>
